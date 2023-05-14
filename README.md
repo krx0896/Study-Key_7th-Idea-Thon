@@ -12,7 +12,7 @@
 
 · UI/UX 디자인
 
-<img src="./business plan/UI\UI디자인 목록.png">
+<img src="./business plan/UI디자인 목록.png">
 
 · 주요 타깃층
   - 공통된 타겟: 자기주도학습을 통해 공부하는 사람
